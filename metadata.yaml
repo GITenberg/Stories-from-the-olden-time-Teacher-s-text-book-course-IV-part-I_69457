@@ -1,0 +1,29 @@
+_repo: Stories-from-the-olden-time-Teacher-s-text-book-course-IV-part-I_69457
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baldwin, Josephine L.
+    gutenberg_agent_id: '55276'
+    url: http://www.gutenberg.org/2009/agents/55276
+  editor:
+    agent_name: Meyer, Henry H.
+    gutenberg_agent_id: '55277'
+    url: http://www.gutenberg.org/2009/agents/55277
+description: ''
+gutenberg_issued: '2022-12-02'
+identifiers:
+  gutenberg: '69457'
+language: en
+pgterms:marc905: 20200802124954baldwin
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Juliet Sutherland and the Online Distributed Proofreading Team at
+  https://www.pgdp.net
+publication_note: 'United States: The Methodist Book Concern,1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Stories from the olden time: Teacher''s text book, course IV, part I'
+url: http://www.gutenberg.org/ebooks/69457
