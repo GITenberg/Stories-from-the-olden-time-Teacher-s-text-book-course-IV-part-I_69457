@@ -1,5 +1,8 @@
 _repo: Stories-from-the-olden-time-Teacher-s-text-book-course-IV-part-I_69457
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69457-h/images/cover.jpg
 creator:
   author:
     agent_name: Baldwin, Josephine L.
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '55277'
     url: http://www.gutenberg.org/2009/agents/55277
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69457#Stories-from-the-olden-time-Teacher-s-text-book-course-IV-part-I
 gutenberg_issued: '2022-12-02'
 identifiers:
   gutenberg: '69457'
